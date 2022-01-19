@@ -1,4 +1,5 @@
-# Data-Structure Run in visual studio
+# Data-Structure Projects
+# Run in visual studio
 # Sample output of polish notation 
 ![image](https://user-images.githubusercontent.com/57709260/149828267-e462004b-f42d-4868-b8d0-b930b0b04adb.png)
 # Max subsequence algorithms
